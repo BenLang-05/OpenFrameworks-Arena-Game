@@ -4,3 +4,5 @@ obj/
 x64/
 Debug/
 Release/
+
+*.vcxproj.user
